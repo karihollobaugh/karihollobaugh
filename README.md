@@ -1,4 +1,4 @@
-### My name is Kari. I'm new to coding and excited to see where Tech Elevator will take all of us this summer.
+### My name is Kari. Thanks for checking out my GitHub!
 
 <!--
 **karihollobaugh/karihollobaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
